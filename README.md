@@ -24,10 +24,10 @@ HKUSTeam from Hong Kong University of Science and Technology [video]((https://yo
 
 ### Other great presentations
 The New Team from Parson's School of Design [video](https://youtu.be/VRr0CNRPhaw)
-![THE_PATH_Pre](/img/THE_PATH_Pre.png)
+![THE_PATH_Pre](/img/The_PATH_Pre.png)
 
-THU team from Tsinghua University)![THU](img/THU_Pre.png)
+THU team from Tsinghua University ![THU](img/THU_pre.png)
 
 CityU Team from City University of Hong Kong [video](https://youtu.be/NWYWV4WW_nM)
-![CityU](img/cityU_Pre.png)
+![CityU](img/cityU_pre.png)
 
