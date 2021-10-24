@@ -20,7 +20,8 @@ The final grade contains two parts, 50% of the racing performance of the racing 
 
 ### Best Performance Award: 
 
-HKUSTeam from Hong Kong University of Science and Technology [video]((https://youtu.be/l6C9estO0_8))![HKUST_pre](img/HKUST_Pre.png)
+HKUSTeam from Hong Kong University of Science and Technology [video](https://youtu.be/l6C9estO0_8) 
+![HKUST_pre](img/HKUST_Pre.png)
 
 ### Other great presentations
 The New Team from Parson's School of Design [video](https://youtu.be/VRr0CNRPhaw)
