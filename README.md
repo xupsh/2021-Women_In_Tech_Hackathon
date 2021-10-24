@@ -32,7 +32,7 @@ The final grade contains two parts, 50% of the racing performance of the racing 
 ### Best Innovation Award: 
 711 from ShanghaiTech University
 ### [Video](https://youtu.be/HorqFNmhYJc)
-[![711_pre](/img/711_pre.png)]https://youtu.be/HorqFNmhYJc
+[![711_pre](/img/711_pre.png)](https://youtu.be/HorqFNmhYJc)
 
 
 ### Best Performance Award: 
