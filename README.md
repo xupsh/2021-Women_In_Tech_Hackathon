@@ -9,7 +9,7 @@ Day2：Racing on given map
 
 Day3：Propsal and implement the creative idea
 
-You can find the summary video here [Video](https://youtu.be/HorqFNmhYJc)
+You can find the summary video here [Video](https://youtu.be/r4me5AmvQ1o)
 
 ## Holding Venus of Oct. 17th Racing Day
 
