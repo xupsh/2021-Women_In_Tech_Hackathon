@@ -1,5 +1,14 @@
 # 2021-Women_In_Tech_Hackthon
-This repository contains the final presentation of the 2021 women in tech hackthon
+This repository contains the final presentation of the 2021 women in tech hackthon.
+
+The events have 3 days
+
+Day1: Training and Learning
+
+Day2：Racing on given map
+
+Day3：Propsal and implement the creative idea
+
 You can find the summary video here [Video](https://youtu.be/HorqFNmhYJc)
 
 ## Holding Venus of Oct. 17th Racing Day
