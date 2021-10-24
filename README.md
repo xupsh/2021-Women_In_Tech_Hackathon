@@ -9,11 +9,11 @@ Day2：Racing on given map
 
 Day3：Propsal and implement the creative idea
 
-You can find the summary video here [Video](https://youtu.be/r4me5AmvQ1o)
+You can find the summary video [here](https://youtu.be/r4me5AmvQ1o)
 
 ## Holding Venus of Oct. 17th Racing Day
 
-![holding](img/holding_venus.png)
+[![holding](img/holding_venus.png)](https://youtu.be/r4me5AmvQ1o)
 
 ## Participants and Ranking
 
@@ -31,22 +31,21 @@ The final grade contains two parts, 50% of the racing performance of the racing 
 
 ### Best Innovation Award: 
 711 from ShanghaiTech University
-### [Video](https://youtu.be/HorqFNmhYJc)
 [![711_pre](/img/711_pre.png)](https://youtu.be/HorqFNmhYJc)
 
 
 ### Best Performance Award: 
 
-HKUSTeam from Hong Kong University of Science and Technology [Video](https://youtu.be/l6C9estO0_8) 
-![HKUST_pre](img/HKUST_Pre.png)
+HKUSTeam from Hong Kong University of Science and Technology
+[![HKUST_pre](img/HKUST_Pre.png)](https://youtu.be/l6C9estO0_8) 
 
 ### Other great presentations
-The New Team from Parson's School of Design [Video](https://youtu.be/VRr0CNRPhaw)
-![THE_PATH_Pre](/img/The_PATH_Pre.png)
+The New Team from Parson's School of Design 
+[![THE_PATH_Pre](/img/The_PATH_Pre.png)](https://youtu.be/VRr0CNRPhaw)
 
-THU team from Tsinghua University [Video](https://youtu.be/kdRjoUWxcL4)
-![THU](img/THU_pre.png)
+THU team from Tsinghua University
+[![THU](img/THU_pre.png)](https://youtu.be/kdRjoUWxcL4)
 
-CityU Team from City University of Hong Kong [Video](https://youtu.be/NWYWV4WW_nM)
-![CityU](img/cityU_pre.png)
+CityU Team from City University of Hong Kong 
+[![CityU](img/cityU_pre.png)](https://youtu.be/NWYWV4WW_nM)
 
