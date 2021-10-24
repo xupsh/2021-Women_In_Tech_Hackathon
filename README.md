@@ -20,21 +20,22 @@ HKUSTeam held the fastest record of 2021, click the link below to view their per
 The final grade contains two parts, 50% of the racing performance of the racing day and the other 50% of the final Presentation. According to the grading rule, the final awards come as following:
 
 ### Best Innovation Award: 
-711 from ShanghaiTech University [video](https://youtu.be/HorqFNmhYJc)
+711 from ShanghaiTech University [Video](https://youtu.be/HorqFNmhYJc)
 ![711_pre](/img/711_pre.png)
 
 
 ### Best Performance Award: 
 
-HKUSTeam from Hong Kong University of Science and Technology [video](https://youtu.be/l6C9estO0_8) 
+HKUSTeam from Hong Kong University of Science and Technology [Video](https://youtu.be/l6C9estO0_8) 
 ![HKUST_pre](img/HKUST_Pre.png)
 
 ### Other great presentations
-The New Team from Parson's School of Design [video](https://youtu.be/VRr0CNRPhaw)
+The New Team from Parson's School of Design [Video](https://youtu.be/VRr0CNRPhaw)
 ![THE_PATH_Pre](/img/The_PATH_Pre.png)
 
-THU team from Tsinghua University ![THU](img/THU_pre.png)
+THU team from Tsinghua University [Video](https://youtu.be/kdRjoUWxcL4)
+![THU](img/THU_pre.png)
 
-CityU Team from City University of Hong Kong [video](https://youtu.be/NWYWV4WW_nM)
+CityU Team from City University of Hong Kong [Video](https://youtu.be/NWYWV4WW_nM)
 ![CityU](img/cityU_pre.png)
 
