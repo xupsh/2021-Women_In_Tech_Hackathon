@@ -1,7 +1,13 @@
 # 2021-Women_In_Tech_Hackthon
 This repository contains the final presentation of the 2021 women in tech hackthon
 
+## Holding Venus of Oct. 17th Racing Day
+
+![holding](img/holding_venus.png)
+
 ## Participants and Ranking
+
+The Chart below demonstrates the **ranking of the racing day**
 
 ![ranking](img/ranking.png)
 
